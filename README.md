@@ -1,3 +1,2 @@
 # AmericanGoldCoin
-
-americangoldcoin.net
+https://americangoldcoin.net/
