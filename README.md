@@ -1,1 +1,3 @@
 # AmericanGoldCoin
+
+americangoldcoin.net
